@@ -1,13 +1,6 @@
 <!-- Project Logo -->
 <img src='Resources/Placeholder/LogoHolder.png' width=200px align="left">
 
-<!-- Main Header Links -->
-<div align="right"><a href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" target="_blank">
-<img src='https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg' height=32px style="margin:8px;" alt="Download on the AppStore">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox" target="_blank">
-<img src='http://i.imgur.com/EFGjDDY.png' height=32px style="margin:8px;">
-</a></div>
 
 <!-- Project Title -->
 <h1>Nifty App<sup>&#153;</sup></h1>
