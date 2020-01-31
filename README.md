@@ -3,10 +3,18 @@
 
 This was an extremely interesting project. I am completing this project as part of the Flatiron Data Science bootcamp and I approached it using some traditional techniques and a little experimentation. 
 
-# Screenshots
-Screenshots are the quickest way to captivate your audience and let them know what your app is about. Make those seconds count here and in the App Store with some great graphics.
+For this project we are looking to maximize the profit when selling a home in Seattle. 
 
-# Setup
+We are primarily concerned with:
+What influences the housing prices in King County?
+If they built a new home how accurately could we predict the sale price?
+
+Value: Creating a model with high predictive ability will allow us to improve our original asking price for the homes we sell (so we can sell more profitably) and allow buyers to forecast what they will spend to enter this market.
+
+# Data Set
+King County Housing Prices data set was used for this project. 
+
+# Necessary Items: 
 #### Required Libraries
 ```
 Numpy
@@ -21,17 +29,15 @@ Plotly Express
 Missingno
 ```
 
-#### Step 2. Choose the Environment within Xcode
-Click Scheme Dropdown > **Edit Scheme... > Build Configuration** Dropdown > Preferred Environment
-
-
-# Contribution and Distribution
-#### Looking to contribute to Nifty?
-Pull Requests are welcome!
+# Deliverables
+#### These are contained in this repository: 
+EDA Notebook
+King County Dataset
+Non-Technical Stakeholder Presentation
 
 #### Distribution
-Nifty's source code is for education purposes and should not be redistributed on other sites. If you'd like to know more about distribution or have questions feel free to [email us](mailto:someone@example.com).
+This project was done as a classroom assignment. If you'd like to know more about my methods please contact me.(mailto:someone@example.com).
 
 
 # Comments | Questions | Complements
-You can [email me](mailto:tacticsandstrats@gmail.com) anytime for comments and questions. Let us know if this is helpful to you and what I can do to make it better.
+You can [email me](mailto:tacticsandstrats@gmail.com) anytime for comments and questions. Let me know if this is helpful to you and what I can do to make it better.
