@@ -1,6 +1,8 @@
 <!-- Project Title -->
 <h1>KC Housing Regression<sup>&#153;</sup></h1>
 
+![Seattle House](http://pluspng.com/img-png/cartoon-houses-png-hd-vector-seaside-villa-hd-vector-house-free-png-and-vector-650.jpg)
+
 This was an extremely interesting project. I am completing this project as part of the Flatiron Data Science bootcamp and I approached it using some traditional techniques and a little experimentation. 
 
 For this project we are looking to maximize the profit when selling a home in Seattle. 
@@ -31,9 +33,9 @@ Missingno
 
 # Deliverables
 #### These are contained in this repository: 
-EDA Notebook
-King County Dataset
-Non-Technical Stakeholder Presentation
+* EDA Notebook
+* King County Dataset
+* Non-Technical Stakeholder Presentation
 
 #### Distribution
 This project was done as a classroom assignment. If you'd like to know more about my methods please contact me.(mailto:someone@example.com).
