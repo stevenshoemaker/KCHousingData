@@ -7,10 +7,18 @@ This was an extremely interesting project. I am completing this project as part 
 Screenshots are the quickest way to captivate your audience and let them know what your app is about. Make those seconds count here and in the App Store with some great graphics.
 
 # Setup
-#### Step 1. Retrieve the Submodules
+#### Required Libraries
 ```
-git submodule sync
-git submodule update --init --recursive
+Numpy
+Pandas
+Seaborn
+Matplotlib
+Sklearn
+Scipy
+Statsmodels
+Reverse_Geocoder
+Plotly Express
+Missingno
 ```
 
 #### Step 2. Choose the Environment within Xcode
