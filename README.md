@@ -38,7 +38,7 @@ Missingno
 * Non-Technical Stakeholder Presentation
 
 #### Distribution
-This project was done as a classroom assignment. If you'd like to know more about my methods please contact me.(mailto:someone@example.com).
+This project was done as a classroom assignment. If you'd like to know more about my methods please contact me.
 
 
 # Comments | Questions | Complements
